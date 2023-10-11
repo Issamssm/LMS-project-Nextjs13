@@ -30,7 +30,7 @@ Key Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/next13-lms-platform.git
+git clone git@github.com:Issamssm/LMS-project-Nextjs13.git
 ```
 
 ### Install packages
